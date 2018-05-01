@@ -24,6 +24,7 @@ Getting up and Running from scrach IntelliJ
 http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
 JavaSE Java Platform, Standard Edition
+
 https://en.wikipedia.org/wiki/Java_Platform,_Standard_Edition
 
 Download and Install JavaFX Scene Builder (GUI Framework)
